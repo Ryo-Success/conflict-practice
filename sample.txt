@@ -4,3 +4,4 @@ remote change
 "line A" 
 "main branch change" 
 "line B" 
+"line C" 
