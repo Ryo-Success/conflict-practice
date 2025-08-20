@@ -3,3 +3,4 @@ local change
 remote change
 "line A" 
 "main branch change" 
+"line B" 
